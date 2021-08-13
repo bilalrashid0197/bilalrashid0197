@@ -1,4 +1,4 @@
-###👋 Hi, I'm Bilal Rashid 👋
+### Hi, I'm Bilal Rashid 👋
 
 <!--
 Here are some ideas to get you started:
