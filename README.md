@@ -1,4 +1,4 @@
-[Bilal](Desktop/Screen Shot 2021-08-13 at 8.57.34 PM)
+[Bilal](Screen Shot 2021-08-13 at 8.57.34 PM)
 
 
 ###### ***What I am currently working on**:
