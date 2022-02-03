@@ -2,7 +2,6 @@
 
 ###### **What I am currently working on and more about me**:
 ***
-% - 🌱 I’m currently learning Python and starting out on SQL
 - 📫 How to reach me: You can either message me on [Linkedin](https://www.linkedin.com/in/bilal-rashid-a04625198/) or can email me at [bilalrashid0197@gmail.com](gmail.com)
 - ⚡ Fun fact: I like all types of sports, especially basketball
 ###### **What I know and want to get better at**:
