@@ -1,4 +1,3 @@
-<img width="1000" alt="Screen Shot 2021-08-13 at 8 57 34 PM" src="https://user-images.githubusercontent.com/83705505/129429917-c518dd19-1338-4f5f-b42b-a5434e696923.png">
 
 ###### **What I am currently working on and more about me**:
 ***
